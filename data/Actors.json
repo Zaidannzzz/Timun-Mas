@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Timun Mas","characterIndex":0,"characterName":"Timun Mas","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Timun Mas","traits":[],"initialLevel":1,"maxLevel":99,"name":"Timun Mas","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Mbok Srini","characterIndex":1,"characterName":"Timun Mas","classId":3,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Timun Mas","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mbok Srini","nickname":"Mbok Srini","note":"","profile":""}
+]
